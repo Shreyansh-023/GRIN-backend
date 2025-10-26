@@ -12,6 +12,12 @@ from production import init_production, ALLOWED_ORIGINS, STATIC_DIR, USER_IMAGES
 # Initialize production settings
 init_production()
 
+# Import memory optimization
+from memory_optimization import optimize_memory, cleanup_after_prediction
+
+# Apply memory optimizations
+optimize_memory()
+
 # CRITICAL: Ensure model_loader.py is available before importing
 # This allows storing sensitive model code in Google Drive instead of GitHub
 import sys
@@ -117,6 +123,8 @@ async def predict(request: Request, file: UploadFile = File(...)):
     try:
         # Step 1: Get model predictions
         prediction = predict_attributes_from_bytes(image_bytes)
+        # Clean up memory after prediction
+        cleanup_after_prediction()
         
         if "error" in prediction:
             raise HTTPException(status_code=500, detail=f"Model prediction failed: {prediction['error']}")
