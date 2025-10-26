@@ -1,0 +1,203 @@
+{
+  "summary": "\nSkin Analysis:\nYour skin shows clear complexion, oily skin tendencies, noticeable dark circles.\n\nSkincare Recommendations:\n• Use a gentle, oil-free cleanser twice daily\n• Apply a non-comedogenic moisturizer\n• Consider products with salicylic acid or niacinamide\n• Use clay masks weekly to control excess oil\n• Apply eye cream with caffeine and vitamin K\n• Ensure adequate sleep and hydration\n• Consider using a color corrector under eyes\n\nAdditional Tips:\n• Use skincare products specifically formulated for men's skin\n• Consider a men's facial moisturizer with SPF for daily protection\n• Look for products targeting specific male skin concerns\n\nMaintenance:\nYou're already maintaining good grooming habits. Continue your current routine while incorporating these recommendations for even better results!",
+  "grouped_attributes": {
+    "image_quality": {
+      "blurry_image": 0
+    },
+    "facial_features": {
+      "attractive": 0,
+      "sharp_jawline": 0,
+      "high_cheekbones": 0,
+      "big_eyes": 0,
+      "big_lips": 1,
+      "sharp_nose": 0
+    },
+    "skin_condition": {
+      "clear_skin": 1,
+      "dark_circles": 1,
+      "oily_skin": 1
+    },
+    "hair_features": {
+      "bald": 0,
+      "receeding_hairline": 0,
+      "long_hair": 0,
+      "curly_hair": 0,
+      "grey_hair": 0,
+      "black_hair": 1
+    },
+    "facial_hair": {
+      "has_beard": 0,
+      "patchy_beard": 0,
+      "has_mustache": 1
+    },
+    "grooming": {
+      "well_groomed": 1,
+      "has_makeup": 0,
+      "wearing_glasses": 0,
+      "wearing_hat": 0,
+      "thick_eyebrow": 1
+    },
+    "expression": {
+      "smiling": 0,
+      "mouth_open": 1
+    },
+    "demographics": {
+      "adult": 1,
+      "old": 0,
+      "male": 1,
+      "veil": 0
+    }
+  },
+  "skincare_recommendations": [
+    "Use a gentle, oil-free cleanser twice daily",
+    "Apply a non-comedogenic moisturizer",
+    "Consider products with salicylic acid or niacinamide",
+    "Use clay masks weekly to control excess oil",
+    "Apply eye cream with caffeine and vitamin K",
+    "Ensure adequate sleep and hydration",
+    "Consider using a color corrector under eyes"
+  ],
+  "grooming_recommendations": [],
+  "raw_predictions": {
+    "attractive": {
+      "probability": 0.04368458315730095,
+      "predicted": false
+    },
+    "blurry_image": {
+      "probability": 0.005117607302963734,
+      "predicted": false
+    },
+    "sharp_jawline": {
+      "probability": 0.02048235386610031,
+      "predicted": false
+    },
+    "high_cheekbones": {
+      "probability": 0.018028058111667633,
+      "predicted": false
+    },
+    "smiling": {
+      "probability": 0.38179656863212585,
+      "predicted": false
+    },
+    "bald": {
+      "probability": 0.002885654103010893,
+      "predicted": false
+    },
+    "receeding_hairline": {
+      "probability": 0.013853495009243488,
+      "predicted": false
+    },
+    "long_hair": {
+      "probability": 0.03205513209104538,
+      "predicted": false
+    },
+    "curly_hair": {
+      "probability": 0.002423363272100687,
+      "predicted": false
+    },
+    "grey_hair": {
+      "probability": 0.0013829960953444242,
+      "predicted": false
+    },
+    "black_hair": {
+      "probability": 0.9871123433113098,
+      "predicted": true
+    },
+    "has_beard": {
+      "probability": 0.050803493708372116,
+      "predicted": false
+    },
+    "patchy_beard": {
+      "probability": 0.05538186803460121,
+      "predicted": false
+    },
+    "has_mustache": {
+      "probability": 0.7391881942749023,
+      "predicted": true
+    },
+    "well_groomed": {
+      "probability": 0.6869474649429321,
+      "predicted": true
+    },
+    "has_makeup": {
+      "probability": 0.004238835070282221,
+      "predicted": false
+    },
+    "wearing_glasses": {
+      "probability": 0.00837779138237238,
+      "predicted": false
+    },
+    "wearing_hat": {
+      "probability": 0.0025581293739378452,
+      "predicted": false
+    },
+    "clear_skin": {
+      "probability": 0.9506815671920776,
+      "predicted": true
+    },
+    "dark_circles": {
+      "probability": 0.9302733540534973,
+      "predicted": true
+    },
+    "oily_skin": {
+      "probability": 0.6156144142150879,
+      "predicted": true
+    },
+    "thick_eyebrow": {
+      "probability": 0.9985364675521851,
+      "predicted": true
+    },
+    "big_eyes": {
+      "probability": 0.10253802686929703,
+      "predicted": false
+    },
+    "big_lips": {
+      "probability": 0.764109194278717,
+      "predicted": true
+    },
+    "sharp_nose": {
+      "probability": 0.0008141044527292252,
+      "predicted": false
+    },
+    "adult": {
+      "probability": 0.8861680626869202,
+      "predicted": true
+    },
+    "old": {
+      "probability": 0.0015682859811931849,
+      "predicted": false
+    },
+    "mouth_open": {
+      "probability": 0.6755386590957642,
+      "predicted": true
+    },
+    "male": {
+      "probability": 0.9962785840034485,
+      "predicted": true
+    },
+    "double_chin": {
+      "probability": 0.5685434341430664,
+      "predicted": true
+    },
+    "veil": {
+      "probability": 0.00023482125834561884,
+      "predicted": false
+    },
+    "dry_skin": {
+      "probability": 0.14245404303073883,
+      "predicted": false
+    },
+    "freckle": {
+      "probability": 0.0957435891032219,
+      "predicted": false
+    },
+    "wrinkle": {
+      "probability": 0.0006244468386285007,
+      "predicted": false
+    },
+    "chubby": {
+      "probability": 0.9928205609321594,
+      "predicted": true
+    }
+  }
+}

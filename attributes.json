@@ -1,0 +1,142 @@
+{
+    "attractive": {
+        "probability": 0.33362293243408203,
+        "predicted": false
+    },
+    "blurry_image": {
+        "probability": 0.07874905318021774,
+        "predicted": false
+    },
+    "sharp_jawline": {
+        "probability": 0.09666366875171661,
+        "predicted": false
+    },
+    "high_cheekbones": {
+        "probability": 0.12187463790178299,
+        "predicted": false
+    },
+    "smiling": {
+        "probability": 0.09955120831727982,
+        "predicted": false
+    },
+    "bald": {
+        "probability": 0.03343017026782036,
+        "predicted": false
+    },
+    "receeding_hairline": {
+        "probability": 0.19714966416358948,
+        "predicted": false
+    },
+    "long_hair": {
+        "probability": 0.008185423910617828,
+        "predicted": false
+    },
+    "curly_hair": {
+        "probability": 0.010282189585268497,
+        "predicted": false
+    },
+    "grey_hair": {
+        "probability": 0.18161696195602417,
+        "predicted": false
+    },
+    "black_hair": {
+        "probability": 0.2804444134235382,
+        "predicted": false
+    },
+    "has_beard": {
+        "probability": 0.43914344906806946,
+        "predicted": false
+    },
+    "patchy_beard": {
+        "probability": 0.14722096920013428,
+        "predicted": false
+    },
+    "has_mustache": {
+        "probability": 0.24838672578334808,
+        "predicted": false
+    },
+    "well_groomed": {
+        "probability": 0.6354078650474548,
+        "predicted": true
+    },
+    "has_makeup": {
+        "probability": 0.01770632527768612,
+        "predicted": false
+    },
+    "wearing_glasses": {
+        "probability": 0.21736370027065277,
+        "predicted": false
+    },
+    "wearing_hat": {
+        "probability": 0.17691807448863983,
+        "predicted": false
+    },
+    "clear_skin": {
+        "probability": 0.8421210646629333,
+        "predicted": true
+    },
+    "dark_circles": {
+        "probability": 0.23660226166248322,
+        "predicted": false
+    },
+    "oily_skin": {
+        "probability": 0.5468531847000122,
+        "predicted": true
+    },
+    "thick_eyebrow": {
+        "probability": 0.17127841711044312,
+        "predicted": false
+    },
+    "big_eyes": {
+        "probability": 0.023804103955626488,
+        "predicted": false
+    },
+    "big_lips": {
+        "probability": 0.003399790031835437,
+        "predicted": false
+    },
+    "sharp_nose": {
+        "probability": 0.21551388502120972,
+        "predicted": false
+    },
+    "adult": {
+        "probability": 0.8161857724189758,
+        "predicted": true
+    },
+    "old": {
+        "probability": 0.18550650775432587,
+        "predicted": false
+    },
+    "mouth_open": {
+        "probability": 0.8514374494552612,
+        "predicted": true
+    },
+    "male": {
+        "probability": 0.9257858991622925,
+        "predicted": true
+    },
+    "double_chin": {
+        "probability": 0.04737398028373718,
+        "predicted": false
+    },
+    "veil": {
+        "probability": 0.0062775397673249245,
+        "predicted": false
+    },
+    "dry_skin": {
+        "probability": 0.13290609419345856,
+        "predicted": false
+    },
+    "freckle": {
+        "probability": 0.011691654101014137,
+        "predicted": false
+    },
+    "wrinkle": {
+        "probability": 0.27386659383773804,
+        "predicted": false
+    },
+    "chubby": {
+        "probability": 0.1542222648859024,
+        "predicted": false
+    }
+}

@@ -1,0 +1,130 @@
+{
+  "image_id": {
+    "0": "The uploaded image was analyzed successfully. Lighting and clarity appear optimal for feature detection.",
+    "1": "The image appears unclear or low quality. Please ensure good lighting, keep the camera steady, and retake the photo for a more accurate assessment."
+  },
+  "attractive": {
+    "0": "Your appearance presents a natural, balanced look with healthy skin tones. Confidence and self-care can further enhance your appeal.",
+    "1": "You possess well-proportioned and aesthetically pleasing facial features. Continue maintaining your grooming and skincare habits to sustain this attractiveness."
+  },
+  "blurry_image": {
+    "0": "The image clarity is satisfactory for analysis. Facial contours and details are clearly visible.",
+    "1": "The image appears blurry, possibly due to motion or focus issues. Please retake the photo in a stable, well-lit environment for better accuracy."
+  },
+  "sharp_jawline": {
+    "0": "Your jawline is naturally soft and rounded, giving a gentle and approachable facial structure. Light facial contouring or hairstyle adjustments can enhance definition if desired.",
+    "1": "You have a sharp, defined jawline — a feature often associated with strong facial symmetry. Consider hairstyles and beard styles that highlight this contour."
+  },
+  "high_cheekbones": {
+    "0": "Your cheekbones are subtle and evenly aligned with the rest of your facial structure, creating a balanced look.",
+    "1": "Prominent cheekbones detected — a desirable facial characteristic linked to symmetry and youthfulness. You may emphasize them further using light contouring or maintaining a lean facial shape."
+  },
+  "smiling": {
+    "0": "A neutral expression was detected. Smiling can often make your face appear more open, positive, and inviting.",
+    "1": "A smile was detected! Smiling enhances facial warmth, approachability, and perceived attractiveness. Keep that positive energy!"
+  },
+  "bald": {
+    "0": "Hair presence detected with visible scalp coverage. Maintain scalp hygiene and hydration for a healthy look.",
+    "1": "Baldness detected. Consider scalp care routines and sun protection. A clean-shaven or trimmed look can further enhance style."
+  },
+  "receeding_hairline": {
+    "0": "Your hairline appears normal and consistent. Continue maintaining hair health with proper nutrition and gentle hair care.",
+    "1": "A receding hairline is visible. Regular scalp massages, biotin-rich diets, and dermatologist consultation may help slow progression."
+  },
+  "long_hair": {
+    "0": "Your hair appears short to medium in length. Maintain regular trims and nourishment for strength and shine.",
+    "1": "Long hair detected — it adds elegance and versatility. Ensure regular conditioning, detangling, and trimming to prevent split ends."
+  },
+  "curly_hair": {
+    "0": "Your hair texture is straight or slightly wavy. Use lightweight moisturizers to maintain smoothness and volume.",
+    "1": "Curly hair detected. Use sulfate-free shampoo and curl-enhancing products to maintain bounce, definition, and hydration."
+  },
+  "grey_hair": {
+    "0": "No visible grey hair detected. Maintain your hair’s natural pigment with a balanced diet and proper scalp care.",
+    "1": "Grey hair detected — a natural sign of maturity and wisdom. You can embrace your look confidently or consider gentle coloring options."
+  },
+  "black_hair": {
+    "0": "Your hair color is not black. Ensure hydration and shine regardless of hair color using suitable serums.",
+    "1": "Black hair detected — naturally rich and vibrant. Maintain its depth by minimizing heat damage and using shine-enhancing products."
+  },
+  "has_beard": {
+    "0": "No beard detected. If you prefer a clean-shaven look, maintain smooth skin with regular exfoliation and moisturizer.",
+    "1": "Beard detected — it complements your facial structure. Maintain shape and softness using beard oil and routine trimming."
+  },
+  "patchy_beard": {
+    "0": "Beard growth appears even and full. Keep it neat with periodic trims and mild beard shampoo.",
+    "1": "Patchy beard detected. Try balanced nutrition, growth serums, or shaping techniques that highlight your best angles."
+  },
+  "has_mustache": {
+    "0": "No mustache detected. A clean upper lip enhances a polished and youthful appearance.",
+    "1": "Mustache detected. Regular grooming and shaping can complement your facial symmetry."
+  },
+  "well_groomed": {
+    "0": "Grooming could be refined. Regular skincare, hair maintenance, and attention to detail can elevate your presentation.",
+    "1": "Excellent grooming detected! Your hair, beard, and skin appear well-maintained, projecting confidence and care."
+  },
+  "has_makeup": {
+    "0": "No visible makeup detected. Your natural features are clearly visible. Maintain clean, hydrated skin for a fresh look.",
+    "1": "Makeup detected. Ensure gentle makeup removal and follow with moisturizing to protect skin health."
+  },
+  "wearing_glasses": {
+    "0": "No eyewear detected. If you use lenses, ensure eye care and protection from digital screens.",
+    "1": "Glasses detected — they complement your facial symmetry. Keep lenses clean for clear visibility and style consistency."
+  },
+  "wearing_hat": {
+    "0": "No headwear detected. Direct scalp exposure is fine, but protect against sun damage when outdoors.",
+    "1": "Hat detected. Great choice for style and sun protection. Ensure scalp ventilation to avoid excess sweat buildup."
+  },
+  "clear_skin": {
+    "0": "Mild blemishes or uneven skin detected. Gentle exfoliation and hydration can help improve texture and tone.",
+    "1": "Clear and healthy skin detected! Continue your skincare regimen with consistent hydration and sun protection."
+  },
+  "dark_circles": {
+    "0": "No dark circles visible — your under-eye area looks bright and refreshed.",
+    "1": "Dark circles detected. Ensure sufficient sleep, hydration, and consider using eye creams with caffeine or vitamin C."
+  },
+  "oily_skin": {
+    "0": "Skin appears balanced with natural hydration. Maintain this equilibrium with lightweight moisturizers.",
+    "1": "Oily skin detected. Use mattifying cleansers and avoid heavy creams to prevent excess shine."
+  },
+  "thick_eyebrow": {
+    "0": "Eyebrows appear moderate or thin. Regular shaping or growth serums can help enhance definition.",
+    "1": "Thick eyebrows detected — a strong feature that frames your eyes well. Maintain shape with gentle trimming or threading."
+  },
+  "big_eyes": {
+    "0": "Eyes appear average in size and proportionate. Brightening eye drops or good lighting can enhance expressiveness.",
+    "1": "Large eyes detected — often perceived as youthful and expressive. Highlight with natural eye care and minimal strain."
+  },
+  "big_lips": {
+    "0": "Lips are moderate in size. Keeping them hydrated ensures a soft, healthy appearance.",
+    "1": "Full lips detected — a classic symbol of expressiveness and vitality. Maintain softness with regular lip balm use."
+  },
+  "sharp_nose": {
+    "0": "Nose shape appears soft or rounded, harmonizing with other facial features.",
+    "1": "Sharp or well-defined nose detected. This gives your face strong character and balance."
+  },
+  "adult": {
+    "0": "You appear to be under 18 years of age. Focus on gentle skincare — cleansing, sunscreen, and hydration are sufficient.",
+    "1": "Adult detected. Use age-appropriate skincare products including antioxidants and SPF for long-term skin health."
+  },
+  "old": {
+    "0": "No noticeable signs of aging detected. Maintain hydration, balanced nutrition, and sun protection for healthy skin aging.",
+    "1": "Mild aging signs detected — fine lines or texture changes. Incorporate retinol-based night creams and stay well-hydrated."
+  },
+  "mouth_open": {
+    "0": "Mouth appears closed. A relaxed, neutral expression conveys calmness and composure.",
+    "1": "Mouth appears open — possibly smiling or speaking. This expression conveys energy and positivity."
+  },
+  "male": {
+    "0": "Facial features suggest a feminine appearance. Use skincare tailored for your skin type, focusing on moisture balance and sun protection.",
+    "1": "Masculine features detected. Men’s grooming routines with exfoliation and oil control can enhance facial texture and appearance."
+  },
+  "double chin": {
+    "0": "No visible double chin. Jawline appears firm and well-defined.",
+    "1": "A double chin detected. Regular facial exercises, posture correction, and hydration can help reduce its appearance."
+  },
+  "veil": {
+    "0": "No veil or head covering detected. Ensure balanced exposure to sunlight for vitamin D and skin tone consistency.",
+    "1": "Veil or covering detected. Ensure breathable fabric and proper skincare underneath to prevent irritation or acne."
+  }
+}
