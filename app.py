@@ -208,12 +208,3 @@ async def consent(request: Request, data: dict = Body(...)):
 import uvicorn
 import os
 
-if __name__ == "__main__":
-    # Render provides the PORT dynamically as an environment variable
-    port = int(os.environ.get("PORT", 10000))
-    uvicorn.run(
-        "app:app",              # Change this if your file isn't named app.py
-        host="0.0.0.0",         # ✅ Must listen on all interfaces
-        port=port,              # ✅ Must use Render’s PORT
-        reload=False            # Disable auto-reload in production
-    )
