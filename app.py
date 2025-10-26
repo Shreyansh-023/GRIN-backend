@@ -7,6 +7,10 @@ from fastapi import Request
 import io
 import os
 import datetime
+from production import init_production, ALLOWED_ORIGINS, STATIC_DIR, USER_IMAGES_DIR, ACCEPTED_DIR, REPORTS_DIR
+
+# Initialize production settings
+init_production()
 
 # CRITICAL: Ensure model_loader.py is available before importing
 # This allows storing sensitive model code in Google Drive instead of GitHub
